@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriel Hamel",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "puppeteer": "^10.2.0"
+  }
+}
